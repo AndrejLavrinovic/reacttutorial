@@ -1,0 +1,27 @@
+{
+  "name": "reactapp",
+  "version": "1.0.0",
+  "description": "React application built by following react tutorials ( https://www.tutorialspoint.com/reactjs/ )",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndrejLavrinovic/reacttutorial.git"
+  },
+  "keywords": [
+    "react",
+    "tutorial",
+    "javascript"
+  ],
+  "author": "Andrej Lavrinovic",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AndrejLavrinovic/reacttutorial/issues"
+  },
+  "homepage": "https://github.com/AndrejLavrinovic/reacttutorial#readme",
+  "dependencies": {
+    "webpack": "^3.3.0"
+  }
+}
