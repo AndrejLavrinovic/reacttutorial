@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/AndrejLavrinovic/reacttutorial#readme",
   "dependencies": {
-    "webpack": "^3.3.0"
+    "webpack": "^3.3.0",
+    "webpack-dev-server": "^2.5.1"
   }
 }
